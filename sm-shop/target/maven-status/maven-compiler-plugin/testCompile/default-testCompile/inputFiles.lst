@@ -1,0 +1,4 @@
+/root/mymaven-project/sm-shop/src/test/java/com/salesmanager/test/shop/controller/category/rest/CategoryManagementAPITest.java
+/root/mymaven-project/sm-shop/src/test/java/com/salesmanager/test/shop/controller/product/rest/ProductManagementAPITest.java
+/root/mymaven-project/sm-shop/src/test/java/com/salesmanager/test/shop/controller/customer/rest/CustomerRESTControllerTest.java
+/root/mymaven-project/sm-shop/src/test/java/com/salesmanager/test/shop/controller/store/rest/ContactAPITest.java

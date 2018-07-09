@@ -1,0 +1,13 @@
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesRegion.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/utils/GeoLocation.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesConfiguration.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteWeightItem.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuotePreProcessModule.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/constants/Constants.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/payment/model/PaymentModule.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/IntegrationException.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuoteModule.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/utils/Encryption.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuotePrePostProcessModule.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/Packaging.java
+/root/mymaven-project/maven/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteItem.java
