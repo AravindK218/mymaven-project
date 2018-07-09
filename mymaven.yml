@@ -9,7 +9,7 @@
 
   tasks:
     - name: Copying the war file to the destination
-      copy: src=/root/mymaven/ sm-core-2.0.3-SNAPSHOT.jar dest="{{ tomcat_path }}/../webapps/"
+      copy: src=/root/mymaven/sm-core-2.0.3-SNAPSHOT.jar dest="{{ tomcat_path }}/../webapps/"
 
     - name: ==> shutdown qle tomcat ,path = "{{ tomcat_path }}/bin/"
       command: sh {{ tomcat_path }}/shutdown.sh
